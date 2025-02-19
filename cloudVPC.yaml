@@ -52,6 +52,7 @@ Resources:
         - Key: Name
           Value: MyRouteTable
 
+
   PublicRoute:
     Type: AWS::EC2::Route
     Properties:
